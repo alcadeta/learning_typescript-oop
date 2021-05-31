@@ -1,0 +1,18 @@
+{
+  "name": "typescript-oop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alicandev/learning_typescript-oop.git",
+  "author": "Alican Demirtas <demirtasdev@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.25.0",
+    "@typescript-eslint/parser": "^4.25.0",
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "dependencies": {
+    "typescript": "^4.3.2"
+  }
+}
